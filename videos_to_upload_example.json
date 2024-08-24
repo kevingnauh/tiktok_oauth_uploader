@@ -1,0 +1,14 @@
+[
+  {
+      "user_id" : "TIKTOK_USER_OPEN_ID",
+      "video_path" : "PATH_TO_VIDEO1",
+      "description" : "DESCRIPTION1",
+      "tags" : ["#TAG1", "#TAG2"]
+  },
+  {     
+      "user_id" : "TIKTOK_USER_OPEN_ID",
+      "video_path": "PATH_TO_VIDEO2",
+      "description": "DESCRIPTION2",
+      "tags": ["#TAG1", "#TAG2"]
+  }
+]
